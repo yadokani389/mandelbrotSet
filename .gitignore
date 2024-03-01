@@ -1,0 +1,7 @@
+/build
+/.vscode
+/.cache
+/resources
+.clang-format
+compile_commands.json
+mandelbrotSet

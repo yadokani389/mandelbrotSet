@@ -1,1 +1,2 @@
 # mandelbrotSet
+![demo](mandelbrot.gif)

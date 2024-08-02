@@ -6,11 +6,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1720019456,
-        "narHash": "sha256-MpCmP58oxQZW5ysHza0sbmTrIy/nAREm9FjP9RTYWFk=",
+        "lastModified": 1722583891,
+        "narHash": "sha256-zSzC3OmhQLOfRV3YtGw0m57wB0mMMKolwSsVb8apnDg=",
         "owner": "yadokani389",
         "repo": "OpenSiv3D",
-        "rev": "522e9ca8c600565cf7c4f71754ed7fb25c7c5259",
+        "rev": "90c9fb8d46fcb231a19b7edb27ba8bda499c27be",
         "type": "github"
       },
       "original": {
@@ -67,11 +67,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1719848872,
-        "narHash": "sha256-H3+EC5cYuq+gQW8y0lSrrDZfH71LB4DAf+TDFyvwCNA=",
+        "lastModified": 1722421184,
+        "narHash": "sha256-/DJBI6trCeVnasdjUo9pbnodCLZcFqnVZiLUfqLH4jA=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "00d80d13810dbfea8ab4ed1009b09100cca86ba8",
+        "rev": "9f918d616c5321ad374ae6cb5ea89c9e04bf3e58",
         "type": "github"
       },
       "original": {

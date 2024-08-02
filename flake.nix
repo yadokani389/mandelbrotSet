@@ -22,7 +22,7 @@
             mkdir -p $out/bin
             cd ..
             cp mandelbrotSet $out/bin
-            cp -r resources $out/bin
+            cp -r ${OpenSiv3D}/Linux/App/resources $out/bin
 
             runHook postInstall
           '';
